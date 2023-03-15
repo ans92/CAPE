@@ -2,10 +2,6 @@
 # Learning Attention Propagation for Compositional Zero-Shot Learning
 This is the un-official PyTorch code of the WACV2023 paper [Learning Attention Propagation for Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf). The code provides the implementation of the Cape method.
 
-<p align="center">
-  <img src="utils/img.png" />
-</p>
-
 ## Setup 
 
 1. Clone the repo 
