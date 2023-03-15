@@ -48,7 +48,7 @@ To test a model, the code is simple:
 ```
     python test.py --logpath LOG_DIR
 ```
-where `LOG_DIR` is the directory containing the logs of a model.
+where `LOG_DIR` is the directory containing the logs of a model. For example, mitstates, utzappos, cgqa.
 
 
 ## References
